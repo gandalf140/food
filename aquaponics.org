@@ -1,4 +1,6 @@
 * Vertical
+  - zip grow towers
+    - www.zipgrow.com
 * Medium
   - fiber
     - high percolation
