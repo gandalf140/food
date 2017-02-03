@@ -1,6 +1,21 @@
 * Vertical
   - zip grow towers
     - www.zipgrow.com
+    - lightweight
+    - media based
+    - durable
+    - no anaroebic zones
+    - only grows on one side because sunlight is unidirectional and these don't
+      try to grow plants on the low light side, where they don't grow well
+    - also easier to move, take to market, etc
+  - redworms
+    - consume organic waste and mineralize them to make them more plant available
+    - order them online
+    - put them in worm bins (tupperware tubs with drain holes)
+    - kitchen waste compost
+    - plant seeds into vermicompost in plug trays
+    - when transplanting plugs into towers, these inject worms into towers
+    - increase percolation
 * Medium
   - fiber
     - high percolation
@@ -13,3 +28,59 @@
     - high surface area
     - cheap
     - lightweight
+* Sump tanks
+  - collection tank for runoff from system
+  - two pumps with float switches at different heights for redundancy in sump
+    pump
+* Fish
+  - environmental conditions
+  - feed sources
+  - purpose
+* Greenhouse
+  - polyethalene film
+* Water
+  - chlorine
+    - will evaporate after several days
+    - need to keep water in separate container that's been evaporated to refill tank with
+    - or have dechlorinating filter on faucet
+  - chloramine
+    - doesn't evaporate
+    - hard to get rid of
+    - if water has it, use another source of water
+  - oxygen
+    - more oxygen is better
+    - as water falls from growing bed into tank, introduces oxygen
+    - could send some water from fish tank back into fish tank instead 
+of into grow bed
+  - pH
+    - best is 6.8 to 7
+    - test weekly at least
+    - API Freshwater Master TestKit or digit pH meter
+    - buffering agent
+      - if drops below 6.4
+        - calcium hydroxide (hydrated lime) or calcium carbonate (agricultural lime)
+        - potassium carbonate or bicarbonate or potassium hydroxide (potash)
+      - if rises above 7.6
+        - pure or based on nitric or phosphoric acid
+        - look out for extra compounds like citric acid
+      - fastest way to change pH is do a one-third water change
+        - but try not to move pH more than 0.2 in a day
+* Fish tanks/grow beds
+  - grow bed
+    - at least 12 inches deep
+    - media guard to facilitate easy cleaning
+  - fish tank
+    - 250 gallon or larger create most stable aquaponics system
+    - need at least 50-gallon volume to raise fish to 12 inches
+  - grow bed and fish tank
+    - start with 1:1 ratio of grow bed volume to fish tank volume
+      - can increase up to 2:1 once system is mature
+    - food safe materials
+  - grow bed area
+    - 1 lb of fish for every 1 sq ft of grow bed surface area
+    - 1 lb fish per 5-10 gallons of fish tank volume
+    - when fish are young and small, reduce number of plants in proportion
+to size of fish
+* plumbing
+** pump
+   - 
