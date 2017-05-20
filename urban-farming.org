@@ -76,4 +76,4 @@
       - weights along edges of tarps
       - keep tarps on all winter
     - hard packed
-      - if really rocky reconsider using that plot
+      - if really rocky reconsider using that plot.
