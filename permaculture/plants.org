@@ -1,0 +1,28 @@
+* Herbs
+| Common Name   | Botanical Name        | Hardy to USDA zone | Type | Light                  | Edible part or use | Animal use      | Other use  | Comments |
+|---------------+-----------------------+--------------------+------+------------------------+--------------------+-----------------+------------+----------|
+| perennial pea | lathyrus latifolius   |                  6 | D Cl | full sun/partial shade | Young leaf         | Insects         | N-fixer    |          |
+| pink purslane | claytonia sibrica     |                  3 | HP   | partial/no             | Leaf               | Insects, Forage |            |          |
+| mitsuba       | cryptotoenia japonica |                  5 | HP   | partial/no             | Leaf               | Insects         |            |          |
+| tarragon      | artemisia dracunculus |                  6 | HP   | full/no                | Leaf (seas)        | Insects         |            |          |
+| watercress    | nasturtium officinale |                  6 | HP   | full/no                | Leaf, Seed         | Insects         |            |          |
+| ginseng       | panax ginseng         |                  6 | HP   | partial/no             | Root, Medicine     |                 |            |          |
+| bunchberry    | cornus canadensis     |                  2 | HP   | partial/no             | Fruit              | Forage          |            |          |
+| spearmint     | mentha spicata        |                  3 | HP   | partial/no             | Leaf, Tea          | Insects         |            |          |
+| sweet cicely  | myrrhis odorata       |                  5 | HP   | partial/no             | Leaf, Seed, Root   | Insects         | Polish     |          |
+
+* Small trees/shrubs
+| Common Name      | Botanical Name       | Hardy to USDA zone | Type | Light      | Edible part or use | Animal use            | Other use        | Comments |
+|------------------+----------------------+--------------------+------+------------+--------------------+-----------------------+------------------+----------|
+| pawpaw           | asimina trilobata    |                  6 | D Tr | partial/no | Fruit              | Hab, chkn, for        | Dye, fiber       |          |
+| spotted laurel   | aucuba japonica      |                  7 | E Sh | full/no    |                    |                       | Wbr, Hr          |          |
+| chinese privet   | ligustrum lucidum    |                  7 | E Sh | full/no    | Medicine           |                       | Wbr, Hr          |          |
+| eleagnus         | elaeagnus x ebbingei |                  6 | E Sh | full/no    | Fruit              | Ins, Hab, Chk, Forage | Wbr, Hr, N-fixer |          |
+| fuchsia          | fuchsia magellanica  |                  6 | D Sh | partial/no | MedicineHum        | Wbr, Hr               |                  |          |
+| red currant      | ribes rubrum         |                  5 | D Sh | full/no    | Fruit              | Ins, Hab, Chk, For    | Hr               |          |
+| black raspberry  | rubus occidentalis   |                  4 | D Sh | full/no    | Fruit, Tea         | Ins, Hab, Chk, Forage | Hr               |          |
+| devil's club     | oplopanax horridus   |                  4 | D Sh | no         | Sht, Medicine      | Hab                   |                  |          |
+| Laurel cherry    | prunus caroliniana   |                  7 | E Tr | full/no    | Fruit              | Ins, Hab, Forage      | Hr               |          |
+| english laurel   | prunus laurocerasus  |                  6 | E Tr | full/no    | Fr                 | Ins, Hab, For         | Wbr, Hr          |          |
+| portugese laurel | prunus lusitanica    |                  6 | E Tr | full/no    |                    | Ins, Hab, For         | Wbr, Hr          |          |
+| black currant    | ribes nigrum         |                  5 | D Sh | full/no    | Fr                 | Ins, Hab, Chk, For    | Hr               |          |
