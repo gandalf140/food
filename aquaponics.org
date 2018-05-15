@@ -83,4 +83,9 @@ of into grow bed
 to size of fish
 * plumbing
 ** pump
-   - 
+    - flow rate
+      - want to cycle entire volume in tank in an hour
+      - if timer runs for 15 minutes, then shuts off for 45 minutes
+       and the volume is 100 gallons then pump should pump 400 gallons per hour
+    - head pressure
+      - the higher the water needs to go (head height), the more resistance
